@@ -1,0 +1,6 @@
+c:\users\jonas.szikrisztgrap\documents\visual studio 2017\Projects\EProv1_JonasGrapneTe17a\EProv1_JonasGrapneTe17a\bin\Debug\EProv1_JonasGrapneTe17a.exe.config
+c:\users\jonas.szikrisztgrap\documents\visual studio 2017\Projects\EProv1_JonasGrapneTe17a\EProv1_JonasGrapneTe17a\bin\Debug\EProv1_JonasGrapneTe17a.exe
+c:\users\jonas.szikrisztgrap\documents\visual studio 2017\Projects\EProv1_JonasGrapneTe17a\EProv1_JonasGrapneTe17a\bin\Debug\EProv1_JonasGrapneTe17a.pdb
+c:\users\jonas.szikrisztgrap\documents\visual studio 2017\Projects\EProv1_JonasGrapneTe17a\EProv1_JonasGrapneTe17a\obj\Debug\EProv1_JonasGrapneTe17a.csprojResolveAssemblyReference.cache
+c:\users\jonas.szikrisztgrap\documents\visual studio 2017\Projects\EProv1_JonasGrapneTe17a\EProv1_JonasGrapneTe17a\obj\Debug\EProv1_JonasGrapneTe17a.exe
+c:\users\jonas.szikrisztgrap\documents\visual studio 2017\Projects\EProv1_JonasGrapneTe17a\EProv1_JonasGrapneTe17a\obj\Debug\EProv1_JonasGrapneTe17a.pdb
